@@ -1,0 +1,5 @@
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Release\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Release\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Release\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Release\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Release\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache

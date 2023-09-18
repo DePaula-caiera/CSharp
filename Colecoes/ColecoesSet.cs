@@ -19,7 +19,8 @@ namespace CursoCSharp.Colecoes
             {
                 new Produto("Camisa", 30.00),
                 new Produto("10ª Temporada Game of Thrones", 100.90),
-                new Produto("Poster", 9.99)
+                new Produto("Pôster", 9.99),
+                new Produto("Pôster", 9.99)
             };
 
             carrinho.UnionWith(combo);

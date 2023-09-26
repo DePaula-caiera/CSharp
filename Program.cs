@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-
-using CursoCSharp.Fundamentos;
+﻿using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.OO;
 
-namespace CursoCSharp {
+namespace CursoCSharp
+{
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -68,6 +67,9 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Stack - Coleções", ColecoesStack.Executar},
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
+                
+                //OO
+                {"Herança - OO", Heranca.Executar},
             });
 
             central.SelecionarEExecutar();

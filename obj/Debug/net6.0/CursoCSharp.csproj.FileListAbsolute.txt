@@ -13,3 +13,6 @@ C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete

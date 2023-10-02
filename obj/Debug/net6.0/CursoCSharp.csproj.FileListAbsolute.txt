@@ -16,3 +16,21 @@ C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
 C:\Users\caiod\OneDrive\Área de Trabalho\Estudos_Dev\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\caiod\source\C#\Udemy\repo\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
